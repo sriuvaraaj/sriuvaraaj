@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sriuvaraaj</h1>
-<h3 align="center">A passionate AI Engineer currently working in intellect design arena.</h3>
+<h3 align="center">A passionate AI Engineer </h3>
 
-- 🔭 I’m currently working on **Expert agent**
+- :handbag: **Intellect Design Arena,Chennai**
+  
+- 🔭 I’m currently working on **Expert agent Project**
 
 - 🌱 I’m currently learning **Langchain,Azure AI**
 
